@@ -355,7 +355,7 @@ Add the event listener
     type="text"
     id="song"
     value={ formData.title }
-    onChange={ handleChange}
+    onChange={ handleChange }
   />
 </label>
 <label htmlFor="artist">
@@ -364,7 +364,7 @@ Add the event listener
     type="text"
     id="artist"
     value={ formData.artist }
-    onChange={ handleChang}
+    onChange={ handleChange }
   />
 </label>
 <label htmlFor="time">
