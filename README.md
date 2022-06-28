@@ -15,7 +15,7 @@ Let's build a playlist maker called Tunr
 - `cd tunr_app`
 - open a new tab in terminal
 - `npm start`
-- in the other open tab `atom .`
+- in the other open tab `code .`
 
 ![](https://i.imgur.com/AlBJBso.png)
 
